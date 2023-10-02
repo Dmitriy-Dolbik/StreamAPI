@@ -1,10 +1,10 @@
-package org.example.tasks2;
+package org.example.tasks2.tasks2_2;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamApiTasks2 {
+public class StreamApiTasks2_2 {
     private  String source = "https://www.programmersought.com/article/47551151501/";
     private static List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
     private static List<Employee> employees = Arrays.asList(

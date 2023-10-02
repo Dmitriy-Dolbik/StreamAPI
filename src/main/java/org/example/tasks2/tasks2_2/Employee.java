@@ -1,4 +1,4 @@
-package org.example.tasks2;
+package org.example.tasks2.tasks2_2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
